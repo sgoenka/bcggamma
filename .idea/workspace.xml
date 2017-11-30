@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1215cc8a-e3a4-463f-8611-1d4394993f97" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Exploratory Statistics-checkpoint.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Feature Engineering and ML Models-checkpoint.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exploratory Statistics.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Feature Engineering and ML Models.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML_case_predictions.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Feature Engineering and ML Models-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Feature Engineering and ML Models-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Feature Engineering and ML Models.ipynb" afterPath="$PROJECT_DIR$/Feature Engineering and ML Models.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml_case_test_data.csv" afterPath="$PROJECT_DIR$/ml_case_test_data.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml_case_test_hist_data.csv" afterPath="$PROJECT_DIR$/ml_case_test_hist_data.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml_case_test_output_template.csv" afterPath="$PROJECT_DIR$/ml_case_test_output_template.csv" />
@@ -103,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511885950946</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First draft">
+      <created>1512023757370</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1512023757370</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -138,7 +144,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit initial files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit initial files" />
+    <MESSAGE value="First draft" />
+    <option name="LAST_COMMIT_MESSAGE" value="First draft" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
