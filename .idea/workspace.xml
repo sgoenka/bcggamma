@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1215cc8a-e3a4-463f-8611-1d4394993f97" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Feature Engineering and ML Models-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Feature Engineering and ML Models-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Feature Engineering and ML Models.ipynb" afterPath="$PROJECT_DIR$/Feature Engineering and ML Models.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ML_case_predictions.csv" afterPath="$PROJECT_DIR$/ML_case_predictions.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Exploratory Statistics-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Exploratory Statistics-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exploratory Statistics.ipynb" afterPath="$PROJECT_DIR$/Exploratory Statistics.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml_case_test_data.csv" afterPath="$PROJECT_DIR$/ml_case_test_data.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml_case_test_hist_data.csv" afterPath="$PROJECT_DIR$/ml_case_test_hist_data.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml_case_test_output_template.csv" afterPath="$PROJECT_DIR$/ml_case_test_output_template.csv" />
@@ -50,6 +49,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -61,8 +62,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -123,13 +122,20 @@
       <option name="project" value="LOCAL" />
       <updated>1512106878094</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added link to sales channels">
+      <created>1512254994186</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1512254994186</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="27" width="1208" height="737" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2581475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26243567" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -161,7 +167,8 @@
     <MESSAGE value="First draft" />
     <MESSAGE value="Second draft with prediction csv" />
     <MESSAGE value="Added feature importance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added feature importance" />
+    <MESSAGE value="Added link to sales channels" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added link to sales channels" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
